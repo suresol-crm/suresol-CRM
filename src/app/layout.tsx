@@ -8,7 +8,7 @@ import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 const inter = Inter({ subsets: ["latin"], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: "Suresol | Logística de Última Milla en Córdoba",
+  title: "Si lees esto es porque funciona la automatizacion",
   description: "Suresol es una empresa de logística de última milla especializada en entregas en 48hs para ecommerce y tiendas online en Córdoba Capital.",
 };
 
