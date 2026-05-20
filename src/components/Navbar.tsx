@@ -55,7 +55,7 @@ export default function Navbar() {
           ))}
           <Link
             href="#contacto"
-            className="bg-primary hover:bg-primary-dark text-slate-900 px-6 py-2 rounded-full font-medium transition-colors shadow-lg shadow-primary/30"
+            className="bg-primary hover:bg-primary-dark text-white px-6 py-2 rounded-full font-medium transition-colors shadow-lg shadow-primary/30"
           >
             Cotizar ahora
           </Link>
@@ -93,7 +93,7 @@ export default function Navbar() {
             ))}
             <Link
               href="#contacto"
-              className="bg-primary text-slate-900 px-8 py-3 rounded-full font-medium mt-4 w-4/5 text-center shadow-lg shadow-primary/30"
+              className="bg-primary text-white px-8 py-3 rounded-full font-medium mt-4 w-4/5 text-center shadow-lg shadow-primary/30"
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Cotizar ahora

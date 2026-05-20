@@ -58,7 +58,7 @@ export default function Hero() {
             >
               <Link 
                 href="#contacto" 
-                className="bg-primary hover:bg-primary-dark text-slate-900 px-8 py-4 rounded-full font-bold text-lg flex items-center justify-center gap-2 transition-all shadow-[0_0_40px_-10px_rgba(250,204,21,0.5)] hover:shadow-[0_0_60px_-15px_rgba(250,204,21,0.6)] hover:-translate-y-1"
+                className="bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-full font-bold text-lg flex items-center justify-center gap-2 transition-all shadow-[0_0_40px_-10px_rgba(14,165,233,0.5)] hover:shadow-[0_0_60px_-15px_rgba(14,165,233,0.6)] hover:-translate-y-1"
               >
                 Cotizar ahora
                 <FaArrowRight size={16} />
@@ -103,7 +103,7 @@ export default function Hero() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 0.8 }}
             >
-              <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center text-slate-900 font-bold text-xl">
+              <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center text-white font-bold text-xl">
                 ✓
               </div>
               <div>

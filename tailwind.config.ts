@@ -10,14 +10,14 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#FACC15",
-          dark: "#EAB308",
+          DEFAULT: "#0ea5e9", // Sky Blue
+          dark: "#0284c7",    // Deep Celeste
         },
         secondary: {
           DEFAULT: "#0F172A",
         },
         accent: {
-          DEFAULT: "#10B981",
+          DEFAULT: "#eab308", // Sunflower Yellow
         }
       },
       backgroundImage: {
