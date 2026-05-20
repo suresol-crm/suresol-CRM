@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 
 export default function Integrations() {
   const logos = [
-    { name: "Tiendanube", url: "https://logodownload.org/wp-content/uploads/2021/03/tiendanube-logo.png" },
     { name: "MercadoLibre", url: "https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/5.21.22/mercadolibre/logo__large_plus.png" },
     { name: "Shopify", url: "https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" },
   ];
